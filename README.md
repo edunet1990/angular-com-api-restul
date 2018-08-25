@@ -1,2 +1,2 @@
 # angular-com-api-restul
-Nesse projeto
+Criei um projeto angular que chama uma api-restful
